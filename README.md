@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamnzr123" alt="alamnzr123" /></a> </p>
 
-- 🔭 I’m currently working on [Pijar Camp](https://camp.pijarmahir.id/)
+- 🔭 I’m currently Open to Work!
 
 - 🌱 I’m Expert on **ReactJS, Node JS, NextJS, ReactNative, Javascript**
 
