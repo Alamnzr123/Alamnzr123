@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamnzr123" alt="alamnzr123" /></a> </p>
 
-- 🔭 I’m currently Open to Work!
+- 🔭 Discuss any Opportunity with me!
 
 - 🌱 I’m Expert on **ReactJS, Node JS, NextJS, ReactNative, Javascript**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nzr.rahmad@gmail.com**
 
-- 📄 Know about my experiences [See My LinkedIn Profile](See My LinkedIn Profile)
+- 📄 Wanna know about my experiences [See My LinkedIn Profile](https://www.linkedin.com/in/rahmadalamsyahnazaruddin/)
 
 - ⚡ Fun fact **Progress using VueJS, Go, Java, Flutter, NestJS, RabbitMQ, Docker, Laravel, Spring**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/nzrrahmadI"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/nzrrahmadI" /></a>
-<a href="https://medium.com/@nzr.rahmad"> <img align="left" src="https://www.jsdelivr.com/package/npm/@yoshokatana/medium-button" height="50" width="210" alt="https://bmc.link/nzrrahmadI" /></a>
+<a href="https://medium.com/@nzr.rahmad"> <img align="left" src="![image](https://github.com/Alamnzr123/Alamnzr123/assets/54619997/57c18331-c816-48c4-9a84-796d966d8c18)" height="50" width="210" alt="https://bmc.link/nzrrahmadI" /></a>
 
 </p><br><br>
 
