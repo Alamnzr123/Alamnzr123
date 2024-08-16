@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alam</h1>
-<h3 align="center">IT Trainer | Fullstack Web Developer | Software Engineer | Product Manager | Passionate on Technologies and Sales Industries </h3>
+<h3 align="center">IT Trainer | Full-Stack Engineer | Product Manager | Passionate on Technologies and Sales Industries </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamnzr123&label=Profile%20views&color=0e75b6&style=flat" alt="alamnzr123" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Discuss any Opportunity with me!
 
-- 🌱 I’m Expert on **ReactJS, Node JS, NextJS, ReactNative, Javascript**
+- 🌱 I’m Expert on **ReactJS, Node JS, NextJS, ReactNative**
 
 - 💬 Ask me about **IT, Education, Sales, Coding**
 
@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **Progress using VueJS, Go, Java, Flutter, NestJS, RabbitMQ, Docker, Laravel, Spring**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
