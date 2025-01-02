@@ -27,6 +27,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="150" height="150"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="150" height="150" background-color: white;> </a>
 
+<img src="https://komarev.com/ghpvc/?username=alamnzr123&label=Profile%20views&color=0e75b6&style=flat" alt="alamnzr123" style="background-color: white;" />
+
 
   
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="150" height="150"/> </a> 
