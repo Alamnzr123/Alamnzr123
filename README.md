@@ -58,6 +58,17 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="150" height="150"/> </a>
 
 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" alt="InteliJIDEA" width="150" height="150"/> </a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg" alt="Java" width="150" height="150"/> </a>
+
+
+
+
+
+
+
+
 
 
 
