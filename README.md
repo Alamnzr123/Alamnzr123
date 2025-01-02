@@ -62,6 +62,18 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="150" height="150"/> </a>
 
 
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/npm/npm-original-wordmark.svg" alt="npm" width="150" height="150"/> </a>
+
+<a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/openapi/openapi-line-wordmark.svg" alt="npm" width="150" height="150"/> </a>
+
+
+
+
+
+
+
+
+
 
 
 
