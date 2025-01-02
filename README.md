@@ -71,10 +71,12 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vercel/vercel-line-wordmark.svg" alt="Vercel" width="150" height="150"/> </a>
 <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="150" height="150"/> </a></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/nzrrahmadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffe" /></a>
-<a href="https://medium.com/@nzr.rahmad"> <img align="left" src="medium.png" height="50" width="50" alt="medium" /></a>
+<h3 align="left">Support :</h3>
+<p>
+<a href="https://medium.com/@nzr.rahmad"> <img align="left" src="medium.png" height="150" width="150" alt="medium" /></a>
 
+<h3 align="left">Connect with Me :</h3>
+<a href="https://id.linkedin.com/in/rahmadalamsyahnazaruddin/in"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height="150" width="150" alt="Linkedin" /></a>
 </p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamnzr123&show_icons=true&locale=en&layout=compact" alt="alamnzr123" /></p>
