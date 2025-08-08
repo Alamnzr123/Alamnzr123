@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **IT, Education, Sales, Coding**
 
-- 📫 How to reach me **nzr.rahmad@gmail.com**
+- 📫 How to reach me out **nzr.rahmad@gmail.com**
 
 - 📄 Wanna know about my experiences [See My LinkedIn Profile](https://www.linkedin.com/in/rahmadalamsyahnazaruddin/)
 
-- ⚡ Fun fact **Progress using VueJS, Go, Java, Flutter, NestJS, RabbitMQ, Docker, Laravel, Spring**
+- ⚡ Fun fact **One Piece Lovers, Gamers**
 
 <p align="left">
 </p>
