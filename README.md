@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alam</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamnzr123&label=Profile%20views&color=0e75b6&style=flat" alt="alamnzr123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamnzr123" alt="alamnzr123" /></a> </p>
-
 - 🔭 Discuss Business Opportunity, Reach Me On Email
 
 - 💬 Ask me about **Odoo ERP, Web Development**
