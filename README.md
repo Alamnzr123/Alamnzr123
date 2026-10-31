@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rahmad Alamsyah Nazaruddin — Odoo Developer (Odoo 19 Enterprise) and Full-Stack Developer, open to remote roles" />
+<img src="./header.svg" width="100%" alt="Rahmad Alamsyah Nazaruddin — Odoo Developer (Odoo 19 Enterprise) and Full-Stack Developer, open to remote roles" />
 
 <br />
 
@@ -23,7 +23,7 @@ I'm an **Odoo and Full-Stack Developer** from Medan, Indonesia. I turn business 
 <br />
 
 <div align="center">
-<img src="./assets/odoo-flow.svg" width="100%" alt="Diagram: two custom Odoo 19 modules. Module 1, Acquisition Project Management: prospect and customer master, lead, feasibility study, MoU/MoA and contract, handover. Module 2, Project Implementation: sales order, project plan, costing and timesheets, budget vs actual, project closing." />
+<img src="./odoo-flow.svg" width="100%" alt="Diagram: two custom Odoo 19 modules. Module 1, Acquisition Project Management: prospect and customer master, lead, feasibility study, MoU/MoA and contract, handover. Module 2, Project Implementation: sales order, project plan, costing and timesheets, budget vs actual, project closing." />
 </div>
 
 ## Tech stack
