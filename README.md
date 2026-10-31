@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/rahmadalamsyahnazaruddin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nzr.rahmad@gmail.com"><img src="https://img.shields.io/badge/Email-nzr.rahmad%40gmail.com-714B67?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://s.id/27vcA"><img src="https://img.shields.io/badge/Portfolio-View_PDF-00A09D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
