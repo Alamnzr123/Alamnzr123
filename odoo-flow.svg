@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Diagram of two custom Odoo 19 Enterprise modules, from lead to project closing">
+  <title>Two custom Odoo 19 Enterprise modules — from first lead to project closing</title>
+  <defs><clipPath id="frame"><rect width="1200" height="340" rx="20"/></clipPath></defs>
+  <g clip-path="url(#frame)" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="340" fill="#1D1724"/>
+  <text x="40" y="46" font-size="14" font-weight="700" letter-spacing="3" fill="#00A09D">FEATURED WORK  ·  ODOO 19 ENTERPRISE</text>
+  <text x="40" y="80" font-size="24" font-weight="700" fill="#FFFFFF">Two custom modules, from first lead to project closing</text>
+  <text x="1160" y="80" text-anchor="end" font-size="15" fill="#C9BCC6">20+ business processes · approval workflows built in</text>
+  
+  <rect x="40.0" y="118" width="196.8" height="58" rx="12" fill="#714B67"/>
+  <rect x="40.0" y="118" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></rect>
+  <text x="138.4" y="143" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Prospect &amp;</text>
+  <text x="138.4" y="163" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">customer master</text>
+  <line x1="241.8" y1="147.0" x2="263.8" y2="147.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M263.8,142.0 L269.8,147.0 L263.8,152.0 Z" fill="#C9BCC6"/>
+  <rect x="270.8" y="118" width="196.8" height="58" rx="12" fill="#714B67"/>
+  <rect x="270.8" y="118" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="0.8s" repeatCount="indefinite"/></rect>
+  <text x="369.2" y="143" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Lead /</text>
+  <text x="369.2" y="163" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">opportunity</text>
+  <line x1="472.6" y1="147.0" x2="494.6" y2="147.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M494.6,142.0 L500.6,147.0 L494.6,152.0 Z" fill="#C9BCC6"/>
+  <rect x="501.6" y="118" width="196.8" height="58" rx="12" fill="#714B67"/>
+  <rect x="501.6" y="118" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="1.6s" repeatCount="indefinite"/></rect>
+  <text x="600.0" y="143" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Feasibility</text>
+  <text x="600.0" y="163" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">study</text>
+  <line x1="703.4" y1="147.0" x2="725.4" y2="147.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M725.4,142.0 L731.4,147.0 L725.4,152.0 Z" fill="#C9BCC6"/>
+  <rect x="732.4" y="118" width="196.8" height="58" rx="12" fill="#714B67"/>
+  <rect x="732.4" y="118" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="2.4s" repeatCount="indefinite"/></rect>
+  <text x="830.8" y="143" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">MoU, MoA</text>
+  <text x="830.8" y="163" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">&amp; contract</text>
+  <line x1="934.2" y1="147.0" x2="956.2" y2="147.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M956.2,142.0 L962.2,147.0 L956.2,152.0 Z" fill="#C9BCC6"/>
+  <rect x="963.2" y="118" width="196.8" height="58" rx="12" fill="#714B67"/>
+  <rect x="963.2" y="118" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="3.2s" repeatCount="indefinite"/></rect>
+  <text x="1061.6" y="153" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Handover</text>
+  <text x="40" y="200" font-size="13" font-weight="600" fill="#C9BCC6">Module 1 · Acquisition Project Management (on CRM)</text>
+  <path d="M1061.6,176 V216 H138.4 V242" fill="none" stroke="#00A09D" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1s" repeatCount="indefinite"/></path>
+  <path d="M132.4,236 L138.4,245 L144.4,236 Z" fill="#00A09D"/>
+  <circle r="6" fill="#00A09D"><animateMotion dur="3.5s" repeatCount="indefinite" path="M1061.6,176 V216 H138.4 V242"/></circle>
+  <text x="600.0" y="236" text-anchor="middle" font-size="13" font-style="italic" fill="#00A09D">handover creates the sales order and project</text>
+  
+  <rect x="40.0" y="246" width="196.8" height="58" rx="12" fill="#3A3145"/>
+  <rect x="40.0" y="246" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="4.0s" repeatCount="indefinite"/></rect>
+  <text x="138.4" y="281" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Sales order</text>
+  <line x1="241.8" y1="275.0" x2="263.8" y2="275.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M263.8,270.0 L269.8,275.0 L263.8,280.0 Z" fill="#C9BCC6"/>
+  <rect x="270.8" y="246" width="196.8" height="58" rx="12" fill="#3A3145"/>
+  <rect x="270.8" y="246" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="4.8s" repeatCount="indefinite"/></rect>
+  <text x="369.2" y="271" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Project plan</text>
+  <text x="369.2" y="291" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">&amp; milestones</text>
+  <line x1="472.6" y1="275.0" x2="494.6" y2="275.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M494.6,270.0 L500.6,275.0 L494.6,280.0 Z" fill="#C9BCC6"/>
+  <rect x="501.6" y="246" width="196.8" height="58" rx="12" fill="#3A3145"/>
+  <rect x="501.6" y="246" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="5.6s" repeatCount="indefinite"/></rect>
+  <text x="600.0" y="271" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Costing &amp;</text>
+  <text x="600.0" y="291" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">timesheets</text>
+  <line x1="703.4" y1="275.0" x2="725.4" y2="275.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M725.4,270.0 L731.4,275.0 L725.4,280.0 Z" fill="#C9BCC6"/>
+  <rect x="732.4" y="246" width="196.8" height="58" rx="12" fill="#3A3145"/>
+  <rect x="732.4" y="246" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="6.4s" repeatCount="indefinite"/></rect>
+  <text x="830.8" y="271" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Budget vs</text>
+  <text x="830.8" y="291" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">actual</text>
+  <line x1="934.2" y1="275.0" x2="956.2" y2="275.0" stroke="#C9BCC6" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur="0.6s" repeatCount="indefinite"/></line>
+  <path d="M956.2,270.0 L962.2,275.0 L956.2,280.0 Z" fill="#C9BCC6"/>
+  <rect x="963.2" y="246" width="196.8" height="58" rx="12" fill="#3A3145"/>
+  <rect x="963.2" y="246" width="196.8" height="58" rx="12" fill="none" stroke="#00A09D" stroke-width="2.5" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.06;0.14;1" dur="8s" begin="7.2s" repeatCount="indefinite"/></rect>
+  <text x="1061.6" y="271" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Project</text>
+  <text x="1061.6" y="291" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">closing</text>
+  <text x="40" y="328" font-size="13" font-weight="600" fill="#C9BCC6">Module 2 · Project Implementation (on Project, Sales, Inventory, Purchase)</text>
+  </g>
+</svg>
